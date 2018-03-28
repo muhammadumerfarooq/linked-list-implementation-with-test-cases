@@ -1,0 +1,6 @@
+C:\Users\Umer\Desktop\C#\PCE_02_2017\PCE_Starter\bin\Debug\PCE_Starter.exe.config
+C:\Users\Umer\Desktop\C#\PCE_02_2017\PCE_Starter\bin\Debug\PCE_Starter.exe
+C:\Users\Umer\Desktop\C#\PCE_02_2017\PCE_Starter\bin\Debug\PCE_Starter.pdb
+C:\Users\Umer\Desktop\C#\PCE_02_2017\PCE_Starter\obj\Debug\PCE_Starter.csprojResolveAssemblyReference.cache
+C:\Users\Umer\Desktop\C#\PCE_02_2017\PCE_Starter\obj\Debug\PCE_Starter.exe
+C:\Users\Umer\Desktop\C#\PCE_02_2017\PCE_Starter\obj\Debug\PCE_Starter.pdb

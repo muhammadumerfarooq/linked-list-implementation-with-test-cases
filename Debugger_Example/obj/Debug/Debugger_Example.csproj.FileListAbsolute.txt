@@ -1,0 +1,5 @@
+C:\Users\Umer\Desktop\C#\PCE_02_2017\Debugger_Example\bin\Debug\Debugger_Example.exe.config
+C:\Users\Umer\Desktop\C#\PCE_02_2017\Debugger_Example\bin\Debug\Debugger_Example.exe
+C:\Users\Umer\Desktop\C#\PCE_02_2017\Debugger_Example\bin\Debug\Debugger_Example.pdb
+C:\Users\Umer\Desktop\C#\PCE_02_2017\Debugger_Example\obj\Debug\Debugger_Example.exe
+C:\Users\Umer\Desktop\C#\PCE_02_2017\Debugger_Example\obj\Debug\Debugger_Example.pdb
